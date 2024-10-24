@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyAQPa-b6HHfp0HqzCYJcArlT8vM9wJT0Oo';
+const apiKey = '';// Type here your own API Key
 
 const chatbot = document.getElementById('chatbot');
 const conversation = document.getElementById('conversation');
